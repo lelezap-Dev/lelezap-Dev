@@ -77,16 +77,16 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lelezap-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelezap-Dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lelezap-Dev&theme=tokyonight" alt="Detalhes do perfil" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelezap-Dev&theme=tokyonight" alt="Estatísticas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lelezap-Dev&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lelezap-Dev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de commits" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lelezap-Dev&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
 </p>
 
 ---
