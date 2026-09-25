@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/lelezap-Dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Back-end+com+C%23+e+.NET;Apps+mobile+com+React+Native+%2B+Expo;Banco+de+dados+SQL+Server+%2F+Azure;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Desenvolvedor+J%C3%BAnior+Full+Stack;Back-end+com+C%23%2C+.NET+e+ColdFusion;Apps+mobile+com+React+Native+%2B+Expo;Banco+de+dados+SQL+Server+%2F+Azure;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔭 Trabalhando no **Lumina**, um sistema educacional completo (API + app mobile) na nuvem
+- 💼 **Desenvolvedor Júnior Full Stack** na **IT Power Software**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UNIP**
+- 📍 Barueri, São Paulo
+- 🔭 Desenvolvendo o **Lumina**, um sistema educacional completo (API + app mobile) na nuvem
 - 🌱 Estudando arquitetura em camadas, APIs REST e deploy em cloud
 - 🤖 Certificado em **Soluções de IA no GitHub**
 - ⚡ Curiosidade: jogo Rainbow Six e Overwatch nas horas vagas 🎮
@@ -36,6 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ColdFusion-0B6FB7?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
@@ -93,10 +96,8 @@
 <p align="center">
   <a href="mailto:leandrojunior1325@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://github.com/lelezap-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Descomente e troque pelo seu link:
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/leandrosilvajr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/lelezap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">📧 <b>leandrojunior1325@hotmail.com</b></p>
